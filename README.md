@@ -1,4 +1,4 @@
-###  <img src = "https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="10" height="10" /> Hi there!
+###  <center><font size="2"><img src = "https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="50" height="50" />Hi there!</center></font>
 
 <!--
 **ViveDrave/ViveDrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
