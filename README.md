@@ -1,4 +1,4 @@
-###  <div align="center"><h2><img src = "https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="35" height="35" /> Hi there!</h2></div>
+###  <div align="center"><h2><img src = "https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="30" height="30" /> Hi, I'm Vive.</h2></div>
 
 
 <h4><p>🔧 Technologies & Tools</p></h4>
